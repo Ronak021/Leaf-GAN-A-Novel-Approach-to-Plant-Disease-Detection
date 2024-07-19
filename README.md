@@ -1,6 +1,3 @@
-# Creating the README file content for the Leaf GAN project
-
-
 # Leaf GAN: A Novel Approach to Plant Disease Detection
 
 ## Team Members
