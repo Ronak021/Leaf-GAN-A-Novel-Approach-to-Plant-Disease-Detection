@@ -1,6 +1,6 @@
 # Creating the README file content for the Leaf GAN project
 
-readme_content = """
+
 # Leaf GAN: A Novel Approach to Plant Disease Detection
 
 ## Team Members
@@ -55,8 +55,4 @@ This dataset is pioneering in plant pathology and agriculture, offering meticulo
 - Python 3.x
 - Jupyter Notebook
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/leaf-gan.git
-   cd leaf-gan
+
