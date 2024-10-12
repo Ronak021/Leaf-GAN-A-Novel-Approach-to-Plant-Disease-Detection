@@ -40,9 +40,5 @@ This dataset is pioneering in plant pathology and agriculture, offering meticulo
 1. **Output with Raw Image as Input**: Model predictions on raw images.
 2. **Output with Preprocessing and Applying Grad-CAM**: Predictions with Grad-CAM visualizations on preprocessed images.
 
-## Installation and Usage
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
 
 
