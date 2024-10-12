@@ -3,6 +3,9 @@
 
 ## Overview
 Leaf GAN is an innovative project aimed at detecting plant diseases using deep learning techniques. This project focuses on identifying three specific classes of leaf conditions: healthy, septoria, and stripe rust, using a novel Indian-origin dataset.
+1. Healthy Leaf : Bright green, uniform across the entire leaf, Well-formed.
+2. Septoria Leaf : Spots are grayish or tan with dark brown to black edges
+3. Stripe Rust: Bright yellow or orange pustules that are powdery to the touch. 
 
 ## Problem It Solves
 Leaf GAN addresses the critical issue of plant disease detection in agriculture, focusing on early identification and classification of diseases to prevent crop loss, optimize resource use, and enhance agricultural productivity.
