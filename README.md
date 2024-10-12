@@ -1,10 +1,5 @@
 # Leaf GAN: A Novel Approach to Plant Disease Detection
 
-## Team Members
-- Ronak Chauhan (21BCE038)
-- Vansh Diyora (21BCE060)
-- Naimish Gajjar (21BCE069)
-
 
 ## Overview
 Leaf GAN is an innovative project aimed at detecting plant diseases using deep learning techniques. This project focuses on identifying three specific classes of leaf conditions: healthy, septoria, and stripe rust, using a novel Indian-origin dataset.
